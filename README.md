@@ -25,9 +25,9 @@ Los objetivos del pre-curso son:
 TODO: Calcular
 (Tiempo estimado: 70 horas).
 
-## Índice:
+## Temario:
 
-#### Antes de empezar, preparemos el [entorno de desarrollo](start.md).
+#### Primero, preparemos nuestro [entorno de desarrollo](course/start.md).
 
 TODO: Hacer video de como pueden enviar los videos
 
