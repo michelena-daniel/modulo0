@@ -1,7 +1,5 @@
 # Que necesitamos?
 
-## Índice
-
 ### Visual Studio Code [(ver)](../tools/vscode/vscode-intro.md).
 
 ---
