@@ -9,29 +9,19 @@ Una vez instalado y abierto el programa podéis crear archivos desde el menú de
 
 ---
 
-# chrome
-
-- `cmd + alt + arrow` (change between tabs)
-- `cmd + shift + i` (open inspector)
-- `cmd + r` (reload page)
-- `cmd + l` (focus on navigation bar)
-- `cmd + n` (open new window)
-- `cmd + t` (open new tab)
-- `cmd + w` (close current tab)
-- `cmd + shit + t` (open closed tab)
-- `cmd + q` (close chrome)
+El comando `cmd` es usando en mac, si no tienes mac el equivalente es `ctrl`.
 
 # mac
 
 - `cmd + space + appName` (spotlight search)
 - `cmd + tab` (change between apps)
 
-# vs code (install extension Sublime Text Keymap)
+# vs code
 
 - `cmd + alt + arrow` (change between tabs)
 - `cmd + w` (close current tab)
 - `cmd + s` (save current file)
-- `cmd + atl + s` (save all open files)
+- `cmd + alt + s` (save all open files)
 - `cmd + z` (undo)
 - `cmd + shift + z` (redo)
 - `cmd + c` (copy selected to clipboard)
@@ -39,7 +29,6 @@ Una vez instalado y abierto el programa podéis crear archivos desde el menú de
 - `cmd + v` (paste clipboard)
 - `cmd + d` (select the selected)
 - `cmd + backspace` (remove all to left)
-- `cmd + shift + d` (duplicate line)
 - `cmd + arrow` (go to arrow's direction)
 - `alt + arrow left/right` (move to next/previous word)
 - `alt + arrow up/down` (move line to)
