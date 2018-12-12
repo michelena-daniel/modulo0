@@ -12,6 +12,10 @@
 
 ---
 
+### Terminal [(ver)](../tools/terminal/README.md).
+
+---
+
 Una vez hemos acabado con lo de arriba estamos listos para empezar el precurso!
 
 [Comencemos!](../tools/vscode/README.md).

@@ -1,4 +1,4 @@
-## Command Line
+## Teminal
 
 A continuación tenéis una lista de los comandos básicos UNIX para manejar archivos y carpetas mediante el terminal. Los usuarios de Mac pueden utilizar el Terminal que ya viene instalado en el sistema y los de Windows deben descargar e instalar [Cmder](http://cmder.net).
 
