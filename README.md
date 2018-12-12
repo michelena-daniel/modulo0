@@ -39,6 +39,20 @@ TODO: Hacer video de como pueden enviar los videos
 1. [Lección 1 - Cómo funciona internet, los protocolos y los navegadores](./course/lecture01.md)
    Para empezar a programar necesitaremos estudiar como funciona internet, entender los distintos tipos de protocolos que hay y destructuraremos el procedimiento que un navegador sigue para mostrarte el contenido de la web.
 
+1. [HTML](./course/lecture02.md)
+   Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
+
+1. [CSS](./course/lecture03.md)
+   Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
+
+1. [JS](./course/lecture04.md)
+   Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
+
+1. [Vídeos](./course/lecture05.md)
+   Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
+
+**RECUERDA!!** No dudes en usar el canal de **Slack.** Tanto profesores como otros alumnos pueden ayudarte con tus dudas :D
+
 MARK:
 
 0. [Tema 0 - Var, Loops, Conditionals](tema0.md)
