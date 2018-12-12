@@ -4,10 +4,14 @@
 
 ---
 
-### Chrome Dev Tools [(ver)](../tools/chrome/README.md).
+### Chrome y Chrome Dev Tools [(ver)](../tools/chrome/README.md).
 
 ---
 
-### Chrome Dev Tools [(ver)](../tools/chrome/README.md).
+### Git y Github [(ver)](../tools/git/README.md).
 
 ---
+
+Una vez hemos acabado con lo de arriba estamos listos para empezar el precurso!
+
+[Comencemos!](../tools/vscode/README.md).

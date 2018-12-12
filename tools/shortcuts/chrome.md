@@ -1,3 +1,5 @@
+### Chrome commands examples
+
 - `cmd + alt + arrow` (change between tabs)
 - `cmd + shift + i` (open inspector)
 - `cmd + r` (reload page)

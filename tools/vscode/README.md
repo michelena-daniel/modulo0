@@ -11,12 +11,12 @@ Una vez instalado y abierto el programa podéis crear archivos desde el menú de
 
 El comando `cmd` es usando en mac, si no tienes mac el equivalente es `ctrl`.
 
-# mac
+### mac
 
 - `cmd + space + appName` (spotlight search)
 - `cmd + tab` (change between apps)
 
-# vs code
+### vs code
 
 - `cmd + alt + arrow` (change between tabs)
 - `cmd + w` (close current tab)

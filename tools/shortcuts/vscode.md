@@ -1,9 +1,11 @@
-# mac
+### VS Code commands examples
+
+#### mac
 
 - `cmd + space + appName` (spotlight search)
 - `cmd + tab` (change between apps)
 
-# vs code
+#### vs code
 
 - `cmd + alt + arrow` (change between tabs)
 - `cmd + w` (close current tab)
