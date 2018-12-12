@@ -33,6 +33,15 @@ TODO: Hacer video de como pueden enviar los videos
 
 #### Los ejercicios no estarán sometidos a revisión, pero los proyectos sí. Para saber cómo enviarnoslos revisad este [video](https://www.youtube.com/watch?v=6pgnKqOQEXs).
 
+0. [Tema 0 - ,, Conditionals](./course/lecture.md)
+   Vamos empezar por algo que parece obvio pero
+   Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
+
+1) [Tema 1 - Protocolos, Loops, Conditionals](tema0.md)
+   Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
+
+MARK:
+
 0. [Tema 0 - Var, Loops, Conditionals](tema0.md)
    Declaracion de variables, repetir ciertas operaciones X veces o recorrer datos mediante Loops FOR, contemplar casos de comportamiento mediante condicionales IF.
 
