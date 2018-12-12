@@ -36,3 +36,5 @@
 
 - [homepage](http://gource.io/)
 - [installing on osx](http://www.fullybaked.co.uk/articles/getting-gource-running-on-osx)
+
+[Volver](../../course/setup.md).

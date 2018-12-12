@@ -64,3 +64,5 @@ cp: copy file
 ```sh
 $ cp <options> <input-file> <output-file>
 ```
+
+[Volver](../../course/setup.md).

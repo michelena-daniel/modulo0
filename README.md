@@ -27,7 +27,7 @@ TODO: Calcular
 
 ## Temario:
 
-#### Primero, preparemos nuestro [entorno de desarrollo](course/start.md).
+#### Primero, preparemos nuestro [entorno de desarrollo](course/setup.md).
 
 TODO: Hacer video de como pueden enviar los videos
 

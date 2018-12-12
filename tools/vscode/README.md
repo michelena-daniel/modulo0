@@ -38,3 +38,5 @@ El comando `cmd` es usando en mac, si no tienes mac el equivalente es `ctrl`.
 - `cmd + a` (select all)
 - `cmd + p` (search in project)
 - `cmd + /` (comment selected)
+
+[Volver](../../course/setup.md).

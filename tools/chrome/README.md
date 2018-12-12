@@ -27,3 +27,5 @@ Las Chrome Dev Tools vienen integradas en Google Chrome. De momento sólo usarem
 - En el Menú de Chrome, selecciona More Tools > Developer Tools.
 - Haz clic con el botón secundario en un elemento de la página y selecciona Inspect.
 - Usa las combinaciones de teclas Ctrl+Mayúscula+I (Windows) o Cmd+Opción+I (Mac).
+
+[Volver](../../course/setup.md).
