@@ -1,12 +1,12 @@
-## HACK A BOS - Precurso
+## HACK A BOS - Módulo 0
 
 ## Descripción:
 
-Bienvenidos al pre-curso de Hack a BOS, aquí encontraréis toda la información, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS así como conceptos genéricos, herramientas y muchas más cosas! Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de conocimientos al que os llevaremos una vez empiece el curso.
+Bienvenidos al Módulo 0 de Hack a BOS, aquí encontraréis toda la información, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS así como conceptos genéricos, herramientas y muchas más cosas! Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de conocimientos al que os llevaremos una vez empiece el curso.
 
 Recordad que tenéis acceso al Slack donde estaremos en contacto de forma continua para solucionar las dudas que surjan así como para hacer sesiones de estudio con sus respectivos ejercicios. Presentaremos algunos mini-proyectos que os sugerimos intentar hacer para afianzar los conocimiento y la soltura.
 
-Los objetivos del pre-curso son:
+Los objetivos del Módulo 0 son:
 
 - Introducir los **conceptos genéricos** así como **facilitaros herramientas y medios** para empezar.
 - Prepararos para poder empezar el curso con **un buen nivel de Javascript, HTML y CSS**.
@@ -20,7 +20,7 @@ Los objetivos del pre-curso son:
 #### Primero, preparemos nuestro [entorno de desarrollo](course/setup.md).
 
 1. [Lección 0 - Las facetas más importantes de la programación](./course/lecture00.md)
-   Vamos empezar por algo que parece obvio pero que a veces se pasa por alto. En este tema trataremos temas como búsquedas de errores e información, nomenclaturas, fundamentos que necesitas para empezar a programar y sobre todo, como seguir este precurso.
+   Vamos empezar por algo que parece obvio pero que a veces se pasa por alto. En este tema trataremos temas como búsquedas de errores e información, nomenclaturas, fundamentos que necesitas para empezar a programar y sobre todo, como seguir este Módulo 0.
 
 2. [Lección 1 - Cómo funciona internet, los protocolos y los navegadores](./course/lecture01.md)
    Para empezar a programar necesitaremos estudiar como funciona internet, entender los distintos tipos de protocolos que hay y destructuraremos el procedimiento que un navegador sigue para mostrarte el contenido de la web.
@@ -28,8 +28,11 @@ Los objetivos del pre-curso son:
 3. [Lección 2 - HTML, CSS y Javascript](./course/lecture02.md)
    Te damos acceso a la documentación de HTML, CSS y Javascript para que vayas adelantando los conceptos. Todo esto lo daremos en el curso pero os dejamos a disposición la documentación para los que no pueden esperar! Esta información hará que el módulo 1 y el módulo 2 te sean más fáciles de llevar. Cuanto más conocimientos previos traigas en este campo más ejercicios prácticos podrás hacer, mejor nivel tendrás. Recuerda que con la práctica, como en todo, es como logramos avanzar.
 
-4. [Challenges](./course/challenges/README.md)
-   Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
+4. [Videos](./course/lecture03.md)
+   TODO: Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
+
+5. [Challenges](./course/lecture05.md)
+   TODO:
 
 ---
 
