@@ -1,4 +1,8 @@
-# git
+# Git y github
+
+Git es una tecnología que se usa a diario que sirve para llevar un control de versiones de nuestros proyectos. [Descargar](https://git-scm.com/)
+
+Github.com es un sitio web que nos permite almacenar nuestros proyectos en la nuve y trabajar en ellos en equipo actualizando el proyecto a través de git. [Ver vídeo](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 - [docs](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
@@ -35,6 +39,6 @@
 ## gource (visualise history)
 
 - [homepage](http://gource.io/)
-- [installing on osx](http://www.fullybaked.co.uk/articles/getting-gource-running-on-osx)
+- [instalar en osx](http://www.fullybaked.co.uk/articles/getting-gource-running-on-osx)
 
 [Volver](../../course/setup.md).

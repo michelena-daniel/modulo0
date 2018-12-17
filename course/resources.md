@@ -27,8 +27,8 @@
 
 ### HTML
 
-- [MDN HTML guide](https://developer.mozilla.org/en-US/docs/Learn)
-- [MDN HTML reference](https://developer.mozilla.org/kab/docs/Web/HTML)
+- [MDN HTML guide](https://developer.mozilla.org/es/docs/Learn)
+- [MDN HTML reference](https://developer.mozilla.org/es/docs/Web/HTML)
 - [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 
 ### CSS
@@ -224,3 +224,5 @@
 - [Javascript](http://www.ecma-international.org/ecma-262/6.0/)
 - [HTML5](https://www.w3.org/TR/2010/WD-html5-20100624/)
 - [CSS](https://www.w3.org/Style/CSS/specs.en.html)
+
+[Volver](../README.md)
