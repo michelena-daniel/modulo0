@@ -41,4 +41,8 @@ Github.com es un sitio web que nos permite almacenar nuestros proyectos en la nu
 - [homepage](http://gource.io/)
 - [instalar en osx](http://www.fullybaked.co.uk/articles/getting-gource-running-on-osx)
 
+## vídeo serie
+
+- [Vídeos](../../videos/README.md)
+
 [Volver](../../course/setup.md).

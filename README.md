@@ -4,6 +4,8 @@
 
 Bienvenidos al Módulo 0 de Hack a BOS, aquí encontraréis toda la información, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS así como conceptos genéricos, herramientas y muchas más cosas! Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de conocimientos al que os llevaremos una vez empiece el curso.
 
+Recordad que tenéis acceso al Slack donde estaremos en contacto de forma continua para solucionar las dudas que surjan así como para hacer sesiones de estudio con sus respectivos ejercicios. Presentaremos algunos mini-proyectos que os sugerimos intentar hacer para afianzar los conocimiento y la soltura.
+
 Los objetivos del Módulo 0 son:
 
 - Introducir los **conceptos genéricos** así como **facilitaros herramientas y medios** para empezar.
@@ -11,7 +13,7 @@ Los objetivos del Módulo 0 son:
 - Fomentar la **auto-resolución** de problemas y el trabajo en **equipo**.
 - Inculcar **buenas prácticas** en cuanto a código y organización del trabajo.
 
-(Tiempo estimado: 80 horas - 100 horas haciendo ejercicios prácticos de lo mencionado en las lecciones).
+(Tiempo estimado: 80 horas - 100 horas).
 
 ## Temario:
 
@@ -26,8 +28,8 @@ Los objetivos del Módulo 0 son:
 3. [Lección 2 - HTML, CSS y Javascript](./course/lecture02.md)
    Te damos acceso a la documentación de HTML, CSS y Javascript para que vayas adelantando los conceptos. Todo esto lo daremos en el curso pero os dejamos a disposición la documentación para los que no pueden esperar! Esta información hará que el módulo 1 y el módulo 2 te sean más fáciles de llevar. Cuanto más conocimientos previos traigas en este campo más ejercicios prácticos podrás hacer, mejor nivel tendrás. Recuerda que con la práctica, como en todo, es como logramos avanzar.
 
-4. [Videos](./course/lecture03.md)
-   Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
+4. [Vídeos](./videos/README.md)
+   TODO: Para la gente que le gusta los ejemplos más visuales, hemos hecho unos vídeos en los que explicamos algunos de los temas anteriores.
 
 5. [Challenges](./course/challenges/README.md)
    Unas preguntas teóricas para confirmar que algunos conceptos se te han quedado en la cabeza y unas preguntas técnicas para empezar a darle al coco.
@@ -42,4 +44,4 @@ Los objetivos del Módulo 0 son:
 
 #### Metodología agile: [ver](extra/agile.md).
 
-**ATENCIÓN!!** Recibirás un correo en los próximos días dándote acceso a nuestra plataforma donde podrás hacer quizzes, preguntar las dudas y charlar con tus compañeros :D
+**RECUERDA!!** No dudes en usar el canal de **Slack.** Tanto profesores como otros alumnos pueden ayudarte con tus dudas :D
