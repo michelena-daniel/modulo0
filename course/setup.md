@@ -18,4 +18,4 @@
 
 Una vez hemos acabado con lo de arriba estamos listos para empezar el precurso! Volvamos al primer README donde tenemos todo el temario.
 
-[Comencemos!](../README.md).
+[Volver](../README.md).
