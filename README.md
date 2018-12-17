@@ -31,8 +31,8 @@ Los objetivos del Módulo 0 son:
 4. [Videos](./course/lecture03.md)
    TODO: Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
 
-5. [Challenges](./course/lecture05.md)
-   TODO:
+5. [Challenges](./course/challenges/README.md)
+   Unas preguntas teóricas para confirmar que algunos conceptos se te han quedado en la cabeza y unas preguntas técnicas para empezar a darle al coco.
 
 ---
 
