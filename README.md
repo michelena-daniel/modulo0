@@ -30,7 +30,7 @@ Los objetivos del Módulo 0 son:
    Unas preguntas teóricas para confirmar que algunos conceptos se te han quedado en la cabeza y unas preguntas técnicas para empezar a darle al coco.
 
 5. [Vídeos](./videos/README.md)
-   Para la gente que le gusta los ejemplos más visuales, hemos hecho unos vídeos en los que explicamos algunos de los temas anteriores.
+   Para la gente que le gusta los ejemplos más visuales, hemos hecho unos vídeos en los que explicamos algunos de los temas anteriores que iremos sacando poco a poco para ayudar a la gente en caso de quedarse atascada. Tranquilos, os avisaremos de cada nueva serie que añadamos!
 
 ---
 
