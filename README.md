@@ -1,12 +1,12 @@
-## HACK A BOS - Precurso
+## HACK A BOS - Módulo 0
 
 ## Descripción:
 
-Bienvenidos al pre-curso de Hack a BOS, aquí encontraréis toda la información, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS así como conceptos genéricos, herramientas y muchas más cosas! Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de conocimientos al que os llevaremos una vez empiece el curso.
+Bienvenidos al Módulo 0 de Hack a BOS, aquí encontraréis toda la información, ejercicios y challenges que os servirán para aprender a dominar la estructura básica de Javascript, HTML y CSS así como conceptos genéricos, herramientas y muchas más cosas! Comprendiendo y dominando con soltura estos fundamentos os resultará más fácil llegar al nivel de conocimientos al que os llevaremos una vez empiece el curso.
 
 Recordad que tenéis acceso al Slack donde estaremos en contacto de forma continua para solucionar las dudas que surjan así como para hacer sesiones de estudio con sus respectivos ejercicios. Presentaremos algunos mini-proyectos que os sugerimos intentar hacer para afianzar los conocimiento y la soltura.
 
-Los objetivos del pre-curso son:
+Los objetivos del Módulo 0 son:
 
 - Introducir los **conceptos genéricos** así como **facilitaros herramientas y medios** para empezar.
 - Prepararos para poder empezar el curso con **un buen nivel de Javascript, HTML y CSS**.
