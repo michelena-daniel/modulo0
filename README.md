@@ -28,7 +28,7 @@ Los objetivos del pre-curso son:
 3. [Lección 2 - HTML, CSS y Javascript](./course/lecture02.md)
    Te damos acceso a la documentación de HTML, CSS y Javascript para que vayas adelantando los conceptos. Todo esto lo daremos en el curso pero os dejamos a disposición la documentación para los que no pueden esperar! Esta información hará que el módulo 1 y el módulo 2 te sean más fáciles de llevar. Cuanto más conocimientos previos traigas en este campo más ejercicios prácticos podrás hacer, mejor nivel tendrás. Recuerda que con la práctica, como en todo, es como logramos avanzar.
 
-4. [Challenges](./course/lecture05.md)
+4. [Challenges](./course/challenges/README.md)
    Para la gente que le gusta los ejemplos más visuales, hemos hecho unos videos en los que explicamos algunos de los temas anteriores.
 
 ---
