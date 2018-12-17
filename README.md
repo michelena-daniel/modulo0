@@ -11,7 +11,7 @@ Los objetivos del Módulo 0 son:
 - Fomentar la **auto-resolución** de problemas y el trabajo en **equipo**.
 - Inculcar **buenas prácticas** en cuanto a código y organización del trabajo.
 
-(Tiempo estimado: 80 horas - 100 horas).
+(Tiempo estimado: 80 horas - 100 horas haciendo ejercicios prácticos de lo mencionado en las lecciones).
 
 ## Temario:
 
