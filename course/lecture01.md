@@ -4,7 +4,7 @@ Internet es, resumidamente, una red de ordenadores a nivel mundial que pueden in
 
 Hemos comprado un ordenador y queremos conectarnos a internet.
 
-###**Pasos:**
+### **Pasos:**
 
 1. Un ISP (proveedor de acceso a internet: Vodafone, Orange, Telefónica...) nos conecta a internet.
 2. Para conectarnos a internet nos asigna un número único a nuestro ordenador (IP) para identificarlo dentro de la red. No hay otro ordenador dentro de la misma red que tenga la misma IP que el nuestro. Una IP luce tal que así: `150.214.90.20` y viene siendo como nuestro nombre, apellidos y dirección en internet.
@@ -14,7 +14,7 @@ Hemos comprado un ordenador y queremos conectarnos a internet.
 
 4. Los routers codifican y decodifican esos datos que entran y salen de nuestro ordenador, une las redes y decide las rutas de tráfico y lo hace a través del protocolo TCP/IP.
 
-###TCP/IP y sus capas con sus protocolos:
+### TCP/IP y sus capas con sus protocolos:
 Como hemos dicho, los datos se envían a través del protocolo TCP/IP, pero, ¿qué es? puedes ver [este vídeo](https://www.youtube.com/watch?v=JQDCL17sARA) para saberlo!
 
 En resumen: **La arquitectura de protocolos TCP/IP está basada** en un modelo conceptual de **cuatro capas** conocido como el modelo DARPA, nombre de la agencia gubernamental de EE.UU. que desarrolló inicialmente el protocolo TCP/IP.
