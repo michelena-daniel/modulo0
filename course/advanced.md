@@ -65,6 +65,4 @@
 
 - [no opnener](https://mathiasbynens.github.io/rel-noopener/)
 
-## OpenGraph
-
-- [](https://developers.facebook.com/docs/sharing/webmasters/)
+[Volver](../README.md)
