@@ -20,7 +20,7 @@ Los objetivos del Módulo 0 son:
 #### Primero, preparemos nuestro [entorno de desarrollo](course/setup.md).
 
 1. [Lección 0 - Las facetas más importantes de la programación](./course/lecture00.md)
-   Vamos empezar por algo que parece obvio pero que a veces se pasa por alto. En este tema trataremos temas como búsquedas de errores e información, nomenclaturas, fundamentos que necesitas para empezar a programar y sobre todo, como seguir este precurso.
+   Vamos empezar por algo que parece obvio pero que a veces se pasa por alto. En este tema trataremos temas como búsquedas de errores e información, nomenclaturas, fundamentos que necesitas para empezar a programar y sobre todo, como seguir este Módulo 0.
 
 2. [Lección 1 - Cómo funciona internet, los protocolos y los navegadores](./course/lecture01.md)
    Para empezar a programar necesitaremos estudiar como funciona internet, entender los distintos tipos de protocolos que hay y destructuraremos el procedimiento que un navegador sigue para mostrarte el contenido de la web.
